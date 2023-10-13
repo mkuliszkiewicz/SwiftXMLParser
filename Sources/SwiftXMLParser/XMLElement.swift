@@ -1,4 +1,4 @@
-// Copyright © 2022 Maciej Banasiewicz. All rights reserved.
+// Copyright © 2022 Maciej Kuliszkiewicz. All rights reserved.
 
 public final class XMLElement: Hashable {
     public let name: String
